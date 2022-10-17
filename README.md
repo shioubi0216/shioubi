@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jheng Syu
-- 👀 I’m prepering for the transfer test 
+- 👀 I’m looking for future goat
 - 🌱 I’m currently learning some C++ and Java
 - 📫 How to reach me > Email: wsx2244667@gmail.com 
 
