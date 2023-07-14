@@ -33,9 +33,7 @@
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
+Last Edited on: 14/7/2023
 <!---
 shioubi/shioubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
