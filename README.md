@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<!--<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>-->
 
 <div>
 
@@ -6,8 +6,8 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
+- ⭐ currently learning on **algorithms /  discord bot / web crawler**
+- 💀 mostly working on **private**
 - 👾 a **student** working his way around things
   
 <h2> / current skills / </h2>
