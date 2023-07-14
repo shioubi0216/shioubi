@@ -13,7 +13,7 @@
 <h2> / current skills / </h2>
   
 - <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+  <img src = "https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
   <img src = "https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "py" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
